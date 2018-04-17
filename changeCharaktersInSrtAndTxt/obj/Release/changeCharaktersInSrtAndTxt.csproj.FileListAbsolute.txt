@@ -1,0 +1,6 @@
+D:\Mega\programming\changeCharaktersInSrtAndTxt\changeCharaktersInSrtAndTxt\bin\Release\changeCharaktersInSrtAndTxt.exe.config
+D:\Mega\programming\changeCharaktersInSrtAndTxt\changeCharaktersInSrtAndTxt\bin\Release\changeCharaktersInSrtAndTxt.exe
+D:\Mega\programming\changeCharaktersInSrtAndTxt\changeCharaktersInSrtAndTxt\bin\Release\changeCharaktersInSrtAndTxt.pdb
+D:\Mega\programming\changeCharaktersInSrtAndTxt\changeCharaktersInSrtAndTxt\obj\Release\changeCharaktersInSrtAndTxt.csproj.CoreCompileInputs.cache
+D:\Mega\programming\changeCharaktersInSrtAndTxt\changeCharaktersInSrtAndTxt\obj\Release\changeCharaktersInSrtAndTxt.exe
+D:\Mega\programming\changeCharaktersInSrtAndTxt\changeCharaktersInSrtAndTxt\obj\Release\changeCharaktersInSrtAndTxt.pdb

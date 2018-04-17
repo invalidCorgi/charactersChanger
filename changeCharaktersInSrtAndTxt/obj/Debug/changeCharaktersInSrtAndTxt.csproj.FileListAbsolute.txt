@@ -1,0 +1,7 @@
+D:\Mega\programming\changeCharaktersInSrtAndTxt\changeCharaktersInSrtAndTxt\bin\Debug\changeCharaktersInSrtAndTxt.exe.config
+D:\Mega\programming\changeCharaktersInSrtAndTxt\changeCharaktersInSrtAndTxt\bin\Debug\changeCharaktersInSrtAndTxt.exe
+D:\Mega\programming\changeCharaktersInSrtAndTxt\changeCharaktersInSrtAndTxt\bin\Debug\changeCharaktersInSrtAndTxt.pdb
+D:\Mega\programming\changeCharaktersInSrtAndTxt\changeCharaktersInSrtAndTxt\obj\Debug\changeCharaktersInSrtAndTxt.csprojResolveAssemblyReference.cache
+D:\Mega\programming\changeCharaktersInSrtAndTxt\changeCharaktersInSrtAndTxt\obj\Debug\changeCharaktersInSrtAndTxt.csproj.CoreCompileInputs.cache
+D:\Mega\programming\changeCharaktersInSrtAndTxt\changeCharaktersInSrtAndTxt\obj\Debug\changeCharaktersInSrtAndTxt.exe
+D:\Mega\programming\changeCharaktersInSrtAndTxt\changeCharaktersInSrtAndTxt\obj\Debug\changeCharaktersInSrtAndTxt.pdb
